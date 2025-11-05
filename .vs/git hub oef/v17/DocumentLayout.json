@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12501163\\Desktop\\C Essentials\\git hub oef\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D46616-9A13-4594-8BC1-6B181A9047E0}|git hub oef\\git hub oef.csproj|c:\\users\\12501163\\desktop\\c essentials\\git hub oef\\git hub oef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D46616-9A13-4594-8BC1-6B181A9047E0}|git hub oef\\git hub oef.csproj|solutionrelative:git hub oef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\12501163\\Desktop\\C Essentials\\git hub oef\\git hub oef\\Program.cs",
+              "RelativeDocumentMoniker": "git hub oef\\Program.cs",
+              "ToolTip": "C:\\Users\\12501163\\Desktop\\C Essentials\\git hub oef\\git hub oef\\Program.cs",
+              "RelativeToolTip": "git hub oef\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T20:38:09.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
